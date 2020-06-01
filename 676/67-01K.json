@@ -145,7 +145,7 @@
     "lithology_type": null,
     "longitude": 0.0,
     "mass_spectrometer": "felix",
-    "material": "Sanidine",
+    "material": "Groundmass",
     "measurement": "felix_analysis340_60_CDD_center.py",
     "post_equilibration": "felix_pump_extraction_line.py",
     "post_measurement": "felix_pump_ms.py",
